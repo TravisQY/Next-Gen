@@ -8,7 +8,7 @@
 ![Style](https://img.shields.io/badge/style-minimalist-050508)
 ![Performance](https://img.shields.io/badge/performance-smooth-3b82f6)
 
-![image](https://github.com/TravisQY/Next-Gen/blob/master/screenshot.png)
+![image](https://github.com/TravisQY/Next-Gen/blob/master/Preview.png)
 
 ## ✨ 项目亮点
 
