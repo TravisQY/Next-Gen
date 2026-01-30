@@ -7,6 +7,8 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Status](https://img.shields.io/badge/status-live-brightgreen.svg)
 
+![image](https://github.com/TravisQY/Next-Gen/blob/master/screenshot.png)
+
 ## ✨ 特性
 
 - **极简科技美学**：基于深色调和霓虹发光元素的视觉设计。
